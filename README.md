@@ -1,11 +1,11 @@
-# @WODdev
-- I’m interested in ai learning and implementation
+# @wrek
+- I’m interested in reversing and c++
 Currently Learning:
 ```
-Python
+c++
 ```
-- **I’m looking to collaborate on anything python or c++ based (learning)**
+- **I’m looking to collaborate on anything python or c++ based**
 ```
-Email me at jjsozer@gmail.com
+dm me on disc
 ```
 
